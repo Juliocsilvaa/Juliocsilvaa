@@ -16,9 +16,7 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     title="Python"
     width="40px" 
     style="padding-right: 20px;" 
-    src="
-    https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg
-    " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -26,9 +24,7 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     title="SQL"
     width="40px" 
     style="padding-right: 20px;" 
-    src="
-    https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg
-    "
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 <img 
     align="left" 
@@ -36,9 +32,7 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     title="Pandas"
     width="40px" 
     style="padding-right: 20px;" 
-    src="
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg
-    " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
 />
 <img 
     align="left" 
@@ -46,9 +40,7 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     title="Scikit-learn"
     width="40px" 
     style="padding-right: 20px;" 
-    src="
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg
-    " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" 
 />
 <img 
     align="left" 
@@ -56,9 +48,7 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     title="Numpy"
     width="40px" 
     style="padding-right: 20px;" 
-    src="
-    https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg
-    " 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" 
 />
 <img 
     align="left" 
@@ -66,9 +56,7 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     title="GeoPandas"
     width="40px" 
     style="padding-right: 20px;" 
-    src="
-    https://cdn.simpleicons.org/geopandas  
-    "
+    src="https://cdn.simpleicons.org/geopandas"
 />
 <br/>
 <br/>
@@ -80,9 +68,7 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     title="Databricks"
     width="40px" 
     style="filter: invert(1);"
-    src="
-    https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg
-    "
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg"
 />
 <br/>
 <br/>
@@ -94,9 +80,7 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     title="n8n"
     width="40px" 
     style="filter: invert(1);" 
-    src="
-    https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg
-    "
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg"
 /> 
 <br/>
 <br/>
@@ -108,8 +92,6 @@ Aqui, documento minha evolução técnica, centralizando códigos de cursos, est
     title="Power BI"
     width="40px" 
     style="padding-right: 20px;" 
-    src="
-    https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg
-    "
+    src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"
 /> 
 <br/>
